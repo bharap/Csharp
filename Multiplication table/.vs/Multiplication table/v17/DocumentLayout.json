@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bharathi\\Csharp\\Multiplication table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C1A273-D864-49FA-BED1-D09FD356D69C}|..\\program3\\program3.csproj|d:\\bharathi\\csharp\\program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E4C3DD-E913-4E58-B9C4-CDF097122E9B}|Multiplication table\\Multiplication table.csproj|d:\\bharathi\\csharp\\multiplication table\\multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E4C3DD-E913-4E58-B9C4-CDF097122E9B}|Multiplication table\\Multiplication table.csproj|solutionrelative:multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bharathi\\Csharp\\program3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\program3\\Program.cs",
+              "ToolTip": "D:\\bharathi\\Csharp\\program3\\Program.cs",
+              "RelativeToolTip": "..\\program3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:51:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bharathi\\Csharp\\Multiplication table\\Multiplication table\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplication table\\Program.cs",
+              "ToolTip": "D:\\bharathi\\Csharp\\Multiplication table\\Multiplication table\\Program.cs",
+              "RelativeToolTip": "Multiplication table\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:18:21.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

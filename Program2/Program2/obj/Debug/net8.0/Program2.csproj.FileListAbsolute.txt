@@ -1,0 +1,15 @@
+D:\bharathi\Csharp\Program2\Program2\bin\Debug\net8.0\Program2.exe
+D:\bharathi\Csharp\Program2\Program2\bin\Debug\net8.0\Program2.deps.json
+D:\bharathi\Csharp\Program2\Program2\bin\Debug\net8.0\Program2.runtimeconfig.json
+D:\bharathi\Csharp\Program2\Program2\bin\Debug\net8.0\Program2.dll
+D:\bharathi\Csharp\Program2\Program2\bin\Debug\net8.0\Program2.pdb
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfoInputs.cache
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfo.cs
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.csproj.CoreCompileInputs.cache
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.sourcelink.json
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.dll
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\refint\Program2.dll
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.pdb
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\Program2.genruntimeconfig.cache
+D:\bharathi\Csharp\Program2\Program2\obj\Debug\net8.0\ref\Program2.dll

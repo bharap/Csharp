@@ -1,0 +1,15 @@
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\bin\Debug\net8.0\sumOfOddNum.exe
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\bin\Debug\net8.0\sumOfOddNum.deps.json
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\bin\Debug\net8.0\sumOfOddNum.runtimeconfig.json
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\bin\Debug\net8.0\sumOfOddNum.dll
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\bin\Debug\net8.0\sumOfOddNum.pdb
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.AssemblyInfoInputs.cache
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.AssemblyInfo.cs
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.csproj.CoreCompileInputs.cache
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.sourcelink.json
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.dll
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\refint\sumOfOddNum.dll
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.pdb
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\sumOfOddNum.genruntimeconfig.cache
+D:\bharathi\Csharp\sumOfOddNum\sumOfOddNum\obj\Debug\net8.0\ref\sumOfOddNum.dll
