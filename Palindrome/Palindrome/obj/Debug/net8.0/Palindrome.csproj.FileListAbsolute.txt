@@ -1,0 +1,15 @@
+D:\bharathi\Csharp\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.exe
+D:\bharathi\Csharp\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+D:\bharathi\Csharp\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+D:\bharathi\Csharp\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.dll
+D:\bharathi\Csharp\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.dll
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+D:\bharathi\Csharp\Palindrome\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
