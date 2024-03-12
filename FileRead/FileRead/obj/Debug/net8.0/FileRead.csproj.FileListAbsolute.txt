@@ -1,0 +1,15 @@
+D:\bharathi\Csharp\FileRead\FileRead\bin\Debug\net8.0\FileRead.exe
+D:\bharathi\Csharp\FileRead\FileRead\bin\Debug\net8.0\FileRead.deps.json
+D:\bharathi\Csharp\FileRead\FileRead\bin\Debug\net8.0\FileRead.runtimeconfig.json
+D:\bharathi\Csharp\FileRead\FileRead\bin\Debug\net8.0\FileRead.dll
+D:\bharathi\Csharp\FileRead\FileRead\bin\Debug\net8.0\FileRead.pdb
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.AssemblyInfoInputs.cache
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.AssemblyInfo.cs
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.csproj.CoreCompileInputs.cache
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.sourcelink.json
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.dll
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\refint\FileRead.dll
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.pdb
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\FileRead.genruntimeconfig.cache
+D:\bharathi\Csharp\FileRead\FileRead\obj\Debug\net8.0\ref\FileRead.dll
